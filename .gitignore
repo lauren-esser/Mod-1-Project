@@ -3,3 +3,13 @@
 __pycache__
 *.db
 *.pytest_cache
+zippedData/new.title.basics.tsv.gz
+zippedData/new.title.crew.tsv.gz
+zippedData/new.title.ratings.tsv.gz
+zippedData/rt.movie_info.tsv.gz
+zippedData/rt.reviews.tsv.gz
+new.title.basics.tsv.gz
+ZippedData1/new.title.basics.tsv.gz
+title.basics 2.tsv
+zippedData/rt.movie_info.tsv.gz
+zippedData/rt.reviews.tsv.gz
